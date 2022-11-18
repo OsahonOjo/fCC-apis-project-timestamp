@@ -3,7 +3,7 @@
 ### Project Description:
 This API is a certification project for freeCodeCamp's Backend Development and APIs course. The API receives GET requests with a "date" parameter and responds with JSON containing the "date" parameter converted to UTC format and milliseconds. If there is no "date" parameter, the response contains the current time in UTC and milliseconds. The API can handle dates that can be parsed by "new Date(date_parameter)." If the "date" parameter is invalid, the response is '{ error : "Invalid Date" }.'
 
-### Replit Link: https://replit.com/@OsahonOjo/fCC-apis-project-timestamp
+### [Replit](https://replit.com/@OsahonOjo/fCC-apis-project-timestamp)
 
 ### Project Requirements:
 1. A request to "/api/:date?" with a valid date should return a JSON object with a "unix" key that is a Unix timestamp of the input date in milliseconds (as type Number)
