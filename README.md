@@ -14,4 +14,4 @@ This API is a certification project for freeCodeCamp's Backend Development and A
 6. An empty date parameter should return the current time in a JSON object with a "unix" key
 7. An empty date parameter should return the current time in a JSON object with a "utc" key
 
-These details can also be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice
+These details can also be found on [freeCodeCamp](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice)
